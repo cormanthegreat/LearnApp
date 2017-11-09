@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LearnApp</string>
+    <string name="testTextString">This is a test text string</string>
+    <string name="buttonText">This is a button</string>
 </resources>

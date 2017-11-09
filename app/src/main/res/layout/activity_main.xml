@@ -16,7 +16,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="10dp"
         android:layout_marginTop="10dp"
-        android:text="This is test text now this text changed"
+        android:text="@string/testTextString"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -27,7 +27,7 @@
         android:layout_marginStart="10dp"
         android:layout_marginTop="60dp"
         android:background="@android:color/holo_green_light"
-        android:text="Button"
+        android:text="@string/buttonText"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
